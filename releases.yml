@@ -1,0 +1,26 @@
+# Eliatra OpenSearch Enterprise Distro (EOED) Release Database
+lastChanged: "2024-02-11T12:00:00+01:00"
+
+# Needs to be ascending
+currentlySupportedOsMinorVersions:
+  - "1.3"
+  - "2.11"
+
+previouslySupportedOsMinorVersions: []
+
+releases: []
+  # - version: "2.11.1-ee0"
+  #   released: "2009-01-01T12:00:00+01:00"
+  #   osMinorVersion: "2.11"
+  #   osVersion: "2.11.1"
+  #   osPatchVersion: "1"
+  #   eeVersion: "0"
+  #   cveFixes:
+  #     - CVE-123-123
+
+  # - version: "2.11.0-ee1"
+  #   released: "2009-01-01T12:00:00+01:00"
+  #   osMinorVersion: "2.10"
+  #   osVersion: "2.11.0"
+  #   osPatchVersion: "0"
+  #   eeVersion: "1"
